@@ -1,0 +1,5 @@
+{
+  "name": "Product Team Skills Dashboard_V1.1",
+  "description": "An AI-powered dashboard for executives to analyze product team skills, experience, and attributes. It features interactive charts, a searchable employee directory, and a natural language query interface to find team members with specific qualifications.",
+  "requestFramePermissions": []
+}
